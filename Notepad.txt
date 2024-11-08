@@ -1,0 +1,26 @@
+Linear Regression:
+	AQI=β0+β1x1+β2x2+…+βnxn+ϵ
+Explanation:
+Data Preparation:
+
+We gather historical data on AQI, PM2.5 concentration (x1), temperature (x2), and possibly other relevant variables (xn).
+This data is organized into a dataset where each observation contains values for AQI, PM2.5 concentration, temperature, and other predictors.
+
+Model Training:
+
+We use the historical data to train the linear regression model.
+During training, the model learns the coefficients (β's) and the intercept (β0) that minimize the difference between the predicted AQI values and the actual AQI values in the training dataset.
+The model learns how changes in PM2.5 concentration (x1), temperature (x2), and other predictors (xn) affect the AQI.
+
+Support Vector Machine:
+	AQI=∑i=1n αi⋅K(xi,xnew)+b
+Where:
+
+AQI
+AQI is the predicted air quality index value.
+n is the number of support vectors.
+xi represents the i-th support vector.
+xnew represents the new observation for which AQI is being predicted.
+αi are the Lagrange multipliers (also called dual coefficients) associated with each support vector.
+K(xi,xnew) is the kernel function, which measures the similarity between the support vector xi and the new observation xnew.
+b is the bias term or intercept.

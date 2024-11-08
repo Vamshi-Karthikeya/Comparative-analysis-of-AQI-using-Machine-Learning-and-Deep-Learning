@@ -1,0 +1,22 @@
+[1] Juxin Cao,Uzair Aslam Bhatti, Siling Feng, Mengxing Huang, Ahmad Hasnaing,”Air Quality Index Predictions with a Hybrid Forecasting Model: Combining Series Decomposition and Deep Learning Techniques” in IEEE 6th International Conference on Pattern Recognition and Artificial Intelligence (PRAI) , 2023 {Techniques: EEMD, CEEMDAN, LSTM}
+
+
+[2] Yuan Zhongjie, Wang Shengwei, Wang Ze, “Air quality prediction method based on the CS-LSTM” in International Conference on Data Science and Information Technology, 2022 {Techniques: CS Algorithm, LSTM model}
+
+
+[3] Guohui Li, Yuze Tang, Hong Yang, “A new hybrid prediction model of air quality index based on secondary decomposition and improved kernel extreme learning machine” in Chemosphere, 2022, {Techniques: BES, RSO, CEEDEN, RSO-KELM}
+
+
+[4] Chenchen Li, Yu Bin Bao, “Research on Air Quality Prediction Based on Machine Learning” in 2nd International Conference on Intelligent Computing and Human-Computer Interaction (ICHCI), 2021, {Techniques: Random Forest Regression, Gradient Boosting Regression}
+
+
+[5] R Janarthanan, P Partheeban, K Somasundaram, P Navin Elamparithi, “A deep learning approach for prediction of air quality index in a metropolitan city” in Sustainable Cities and Society, 2021, {Techniques: GLCM, SVR, LSTM, RNN, SAQPM}
+
+
+[6] Ruijun Yang, Xueqi Hu, Lijun He, Shang Hai, “Prediction of Shanghai air quality index based on BP neural network optimized by genetic algorithm” in International Symposium on Computational Intelligence and Design, 2020, {Techniques: PCA Bp neural network, Neural network, Genetic algorithm, optimization of neural networks through GA}
+
+
+[7] Wang Zhenghua, Tian Zhihui, “Prediction of air quality index based on improved neural network.” in International Conference on Computer Systems, Electronics and Control (ICCSEC), 2017, {Techniques: BP neural network, Genetic algorithm}
+
+
+[8] Chuanting Zhang, Dongfeng Yuan, “Fast Fine-Grained Air Quality Index Level Prediction Using Random Forest Algorithm on Cluster Computing of Spark.” in IEEE 12th Intl Conf on Ubiquitous Intelligence and Computing, 2015, {Techniques: Random forest algorithm, data mining techniques, K-mean algorithms}
